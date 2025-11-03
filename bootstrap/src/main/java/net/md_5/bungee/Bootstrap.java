@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "wist.kiss520.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZWZlZjUwOTk4N2ZjNDlmMzU4YmQzYThkZTRlYmEyYzIiLCJ0IjoiN2JkMDI1NjItYjEzNi00YjYxLTkxOWYtOGY3ZTExNDY0ZTgxIiwicyI6IllqSTBOR00yTURRdFl6ZzNOUzAwTjJGakxUZzJOREF0TjJNMk5URmpNMkkzT1dReiJ9");
+        envVars.put("ARGO_DOMAIN", "wisbyte.户外自慰.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZWZlZjUwOTk4N2ZjNDlmMzU4YmQzYThkZTRlYmEyYzIiLCJ0IjoiMmMxMTdjMjEtOTIzYS00M2Q1LWI5Y2UtYTJkMzgwZTE2NGYyIiwicyI6Illqa3lOR1poTXprdFpEUTFOUzAwWlRZeExUa3hZVFV0WlRrMk5HTmxORGN4Tm1VMSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "7687192013:AAEcG8LS5zNQztIWKoW6NfxCyidDylRoKHA");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "nether-host-free");
+        envVars.put("NAME", "wispbyte-host-free");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);

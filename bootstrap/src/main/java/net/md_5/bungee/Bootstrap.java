@@ -108,7 +108,7 @@ public class Bootstrap
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "6984959042");
         envVars.put("BOT_TOKEN", "7687192013:AAEcG8LS5zNQztIWKoW6NfxCyidDylRoKHA");
-        envVars.put("CFIP", "store.ubi.com");
+        envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "wispbyte-host-free");
         

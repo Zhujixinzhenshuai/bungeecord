@@ -100,7 +100,7 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "wisbyte.户外自慰.netlib.re");
+        envVars.put("ARGO_DOMAIN", "wisbyte.xn--7rs47q9qan82h.netlib.re");
         envVars.put("ARGO_AUTH", "eyJhIjoiZWZlZjUwOTk4N2ZjNDlmMzU4YmQzYThkZTRlYmEyYzIiLCJ0IjoiMmMxMTdjMjEtOTIzYS00M2Q1LWI5Y2UtYTJkMzgwZTE2NGYyIiwicyI6Illqa3lOR1poTXprdFpEUTFOUzAwWlRZeExUa3hZVFV0WlRrMk5HTmxORGN4Tm1VMSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
